@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Book Reading Tracker</string>
+    <string name="add_book">Add a book</string>
+    <string name="back_button">Back</string>
+</resources>
