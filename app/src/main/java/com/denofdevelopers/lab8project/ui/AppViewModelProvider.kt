@@ -21,5 +21,5 @@ object AppViewModelProvider {
     }
 }
 
-fun CreationExtras.inventoryApplication(): BookTrackerApplication =
+fun CreationExtras.bookApplication(): BookTrackerApplication =
     (this[AndroidViewModelFactory.APPLICATION_KEY] as BookTrackerApplication)
